@@ -1,7 +1,6 @@
-
-TgCrypto
-https://raw.githubusercontent.com/HasibulKabir/pyrogramarchive/master/pyrogramasyncv0.18.0.zip
-git+https://github.com/ytdl-org/youtube-dl
+tgcrypto
+pyrogram==2.0.57
+git+https://github.com/ytdl-org/youtube-dl.git
 wget
 pillow
 hachoir
