@@ -1,5 +1,5 @@
-tgcrypto
-pyrogram==2.0.57
+pyrogram>=2.0.107
+tgcrypto>=1.4.2
 git+https://github.com/ytdl-org/youtube-dl.git
 wget
 pillow
